@@ -21,6 +21,7 @@ Throughout the project, we encountered challenges in AI model training, mobile a
 - Poojan Patel
 - Shivam Gupta
 - Harjinder
+- 
 We express our gratitude to our mentors and instructors for their guidance and support throughout the project.
 
 For more information, visit our website [YogiFi.com] and download the YogiFi app from the App Store and Google Play Store.
